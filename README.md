@@ -4,7 +4,7 @@
 >
 > 配套论文：*Reliability Engineering and System Safety* **275 (2026) 112796** · SCI 一区 TOP · [doi:10.1016/j.ress.2026.112796](https://doi.org/10.1016/j.ress.2026.112796)
 >
-> 我在这项工作中的分工（CRediT）：**Software · Formal analysis · Writing – original draft** —— 全部仿真与建模代码、实验设计与分析、论文初稿由我完成。
+> 我在这项工作中的分工（CRediT）：**Software · Formal analysis · Writing – original draft** 
 
 <br>
 
